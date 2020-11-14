@@ -1,6 +1,6 @@
 # Install Requirements (python 3)
 
-pip3 install -r requirement.txt
+pip3 install -r requirements.txt
 
 # Initialize Model
 
